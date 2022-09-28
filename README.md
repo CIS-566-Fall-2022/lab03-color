@@ -1,3 +1,10 @@
+# Submission
+
+Name: Megan Reddy \
+Teammates: Sakshi Rathore, Nick Moon \
+Color Puzzle: https://www.shadertoy.com/view/7lKfWR \
+Damaged VC: https://www.shadertoy.com/view/7lVfDR
+
 # lab03-color
 Let's play with color!
 
