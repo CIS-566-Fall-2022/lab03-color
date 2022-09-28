@@ -1,7 +1,7 @@
 # lab03-color
 Let's play with color!
 
-##Team
+## Team
 Yuqi Zhang, Wenqing Wang, Dongying Liu
 
 ## Link
