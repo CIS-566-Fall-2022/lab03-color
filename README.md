@@ -1,3 +1,11 @@
+# Submission
+
+Team: just me
+
+Color stripes: https://www.shadertoy.com/view/NtGBWh
+
+Damaged VCR: https://www.shadertoy.com/view/NtGfWh
+
 # lab03-color
 Let's play with color!
 
