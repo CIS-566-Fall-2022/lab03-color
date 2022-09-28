@@ -1,3 +1,5 @@
+https://www.shadertoy.com/view/stKfDR
+
 # lab03-color
 Let's play with color!
 
