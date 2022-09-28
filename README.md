@@ -1,3 +1,7 @@
+# Leo Liang
+Teammates: Wayne Wu, Lorant Mikolas   
+* [Stripes](https://www.shadertoy.com/view/7tKBWz)
+* [Damaged VCR](https://www.shadertoy.com/view/ftyBW1)
 # lab03-color
 Let's play with color!
 
