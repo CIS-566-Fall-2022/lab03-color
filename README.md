@@ -1,6 +1,7 @@
 # lab03-color
 Let's play with color!
 ## Shadertoy Link
+Team members: Dongying Liu, Yuqi Zhang, Wenqing Wang
 1. Stripes: https://www.shadertoy.com/view/flyfWR
 2. Damaged VCR: https://www.shadertoy.com/view/ftyBDh
 
