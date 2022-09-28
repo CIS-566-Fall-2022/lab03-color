@@ -1,5 +1,8 @@
 # lab03-color
 Let's play with color!
+## Shadertoy Link
+1. Stripes: https://www.shadertoy.com/view/flyfWR
+2. Damaged VCR: https://www.shadertoy.com/view/ftyBDh
 
 ## 1. Stripes
 Fork [this base code](https://www.shadertoy.com/view/flyfWR) and replicate (to the best of your ability) this animation. And imagine I made the gif loop perfectly
