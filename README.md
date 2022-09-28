@@ -1,4 +1,7 @@
 # lab03-color
+[Color Strip](https://www.shadertoy.com/view/NtGBDh)
+[Damaged VCR](https://www.shadertoy.com/view/flyBDh)
+
 Let's play with color!
 
 ## 1. Stripes
