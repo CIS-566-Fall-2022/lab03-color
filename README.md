@@ -1,5 +1,9 @@
 # lab03-color
 Let's play with color!
+I collaborated a little bit with Wayne Wu and Haoquan Liang.
+Here are my links to solutions:
+1) https://www.shadertoy.com/view/7tVBDR
+2) https://www.shadertoy.com/view/7tKBDz
 
 ## 1. Stripes
 Fork [this base code](https://www.shadertoy.com/view/flyfWR) and replicate (to the best of your ability) this animation. And imagine I made the gif loop perfectly
