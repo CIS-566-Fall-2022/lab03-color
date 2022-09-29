@@ -22,3 +22,4 @@ Too easy? Give [nyan cat](https://www.shadertoy.com/view/stGBDR) a rainbow!
 
 - San Jewell (alone)
 - Puzzle 1 : (slight variation for more interesting stripe positioning) https://www.shadertoy.com/view/stKBDR
+- Puzzle 2 : https://www.shadertoy.com/view/stKBWz
