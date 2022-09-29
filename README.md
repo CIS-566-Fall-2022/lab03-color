@@ -17,3 +17,9 @@ Too easy? Give [nyan cat](https://www.shadertoy.com/view/stGBDR) a rainbow!
 - In the README, include the names of both your team members
 - In the README, create a link to your shader toy solutions
 - Make sure your shadertoy is set to UNLISTED or PUBLIC (so we can see them!)
+
+## Submission content
+
+- San Jewell (alone)
+- Puzzle 1 : (slight variation for more interesting stripe positioning) https://www.shadertoy.com/view/stKBDR
+- Puzzle 2 : https://www.shadertoy.com/view/stKBWz
