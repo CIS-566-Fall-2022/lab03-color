@@ -1,3 +1,11 @@
+team: just me today
+
+puzzle 1 shadertoy: https://www.shadertoy.com/view/slKfDR
+
+puzzle 2 shadertoy: https://www.shadertoy.com/view/7lKfDR
+
+nyan cat shadertoy: https://www.shadertoy.com/view/7tyBW1
+
 # lab03-color
 Let's play with color!
 
