@@ -1,3 +1,7 @@
+Worked with Joanna and Logan   
+Color: https://www.shadertoy.com/view/stVfWR   
+Damaged VCR incomplete: https://www.shadertoy.com/view/slVBWz   
+
 # lab03-color
 Let's play with color!
 
