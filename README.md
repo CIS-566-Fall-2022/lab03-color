@@ -1,4 +1,4 @@
-Worked with Joanna and Logan
+Worked with Joanna and Logan   
 Color: https://www.shadertoy.com/view/stVfWR   
 Damaged VCR incomplete: https://www.shadertoy.com/view/slVBWz   
 
