@@ -6,7 +6,7 @@ Yuqi Zhang, Wenqing Wang, Dongying Liu
 
 ## Link
 1. https://www.shadertoy.com/view/7tKBDR
-2. https://www.shadertoy.com/view/stGBWR
+2. https://www.shadertoy.com/view/cdfXD7
 
 ## 1. Stripes
 Fork [this base code](https://www.shadertoy.com/view/flyfWR) and replicate (to the best of your ability) this animation. And imagine I made the gif loop perfectly
