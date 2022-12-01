@@ -2,7 +2,7 @@
 Let's play with color!
 ## Shadertoy Link
 Team members: Dongying Liu, Yuqi Zhang, Wenqing Wang
-1. Stripes: https://www.shadertoy.com/view/flyfWR
+1. Stripes: https://www.shadertoy.com/view/7lKfWz
 2. Damaged VCR: https://www.shadertoy.com/view/ftyBDh
 
 ## 1. Stripes
