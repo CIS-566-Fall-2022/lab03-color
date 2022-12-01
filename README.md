@@ -1,5 +1,9 @@
 # lab03-color
 Let's play with color!
+## Shadertoy Link
+Team members: Dongying Liu, Yuqi Zhang, Wenqing Wang
+1. Stripes: https://www.shadertoy.com/view/7lKfWz
+2. Damaged VCR: https://www.shadertoy.com/view/ftyBDh
 
 ## 1. Stripes
 Fork [this base code](https://www.shadertoy.com/view/flyfWR) and replicate (to the best of your ability) this animation. And imagine I made the gif loop perfectly
