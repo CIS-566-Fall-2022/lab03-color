@@ -1,3 +1,11 @@
+
+## my answers
+ 1. stripes:
+ 
+ 2. [damaged vcr](https://www.shadertoy.com/view/ddSXRc): https://www.shadertoy.com/view/ddSXRc
+ 
+ 3. ec: 
+
 # lab03-color
 Let's play with color!
 
