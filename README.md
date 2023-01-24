@@ -1,8 +1,8 @@
 
 ## my answers
- 1. stripes:
+ 1. [stripes](https://www.shadertoy.com/view/mlsSR7)
  
- 2. [damaged vcr](https://www.shadertoy.com/view/ddSXRc): https://www.shadertoy.com/view/ddSXRc
+ 2. [damaged vcr](https://www.shadertoy.com/view/ddSXRc)
  
  3. ec: 
 
