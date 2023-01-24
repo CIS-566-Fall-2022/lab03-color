@@ -1,5 +1,6 @@
 
 ## my answers
+teammates: none
  1. [stripes](https://www.shadertoy.com/view/mlsSR7)
  
  2. [damaged vcr](https://www.shadertoy.com/view/ddSXRc)
